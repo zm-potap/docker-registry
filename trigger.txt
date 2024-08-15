@@ -1,1 +1,1 @@
-nginx:alpine registry.cn-beijing.aliyuncs.com/my-ubuntu-docker-registry/nginx:alpine
+nginx:alpine registry.cn-hangzhou.aliyuncs.com/my-ubuntu-docker-registry/nginx:alpine
