@@ -1,1 +1,3 @@
-nginx:alpine registry.cn-hangzhou.aliyuncs.com/my-ubuntu-docker-registry/nginx:alpine
+library/nginx:latest registry.cn-hangzhou.aliyuncs.com/my-ubuntu-docker-registry/nginx:latest
+library/redis:latest registry.cn-hangzhou.aliyuncs.com/my-ubuntu-docker-registry/redis:latest
+library/mongo:latest registry.cn-hangzhou.aliyuncs.com/my-ubuntu-docker-registry/mongo:latest
