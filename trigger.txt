@@ -31,4 +31,8 @@ library/owncloud:latest registry.cn-hangzhou.aliyuncs.com/my-ubuntu-docker-regis
 linuxserver/chromium:latest registry.cn-hangzhou.aliyuncs.com/my-ubuntu-docker-registry/chromium:latest
 mrlyc/xware-kodexplorer:latest registry.cn-hangzhou.aliyuncs.com/my-ubuntu-docker-registry/xware-kodexplorer:latest
 rocker/rstudio:latest registry.cn-hangzhou.aliyuncs.com/my-ubuntu-docker-registry/rstudio:latest
-mathworks/matlab:latest registry.cn-hangzhou.aliyuncs.com/my-ubuntu-docker-registry/matlab:latest
+vulhub/oracle:latest registry.cn-hangzhou.aliyuncs.com/my-ubuntu-docker-registry/oracle:latest
+library/spark:latest registry.cn-hangzhou.aliyuncs.com/my-ubuntu-docker-registry/spark:latest
+ubuntu/squid:latest registry.cn-hangzhou.aliyuncs.com/my-ubuntu-docker-registry/squid:latest
+library/haproxy:latest registry.cn-hangzhou.aliyuncs.com/my-ubuntu-docker-registry/haproxy:latest
+portainer/portainer-ce:latest registry.cn-hangzhou.aliyuncs.com/my-ubuntu-docker-registry/portainer-ce:latest
