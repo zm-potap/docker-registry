@@ -36,3 +36,4 @@ library/spark:latest registry.cn-hangzhou.aliyuncs.com/my-ubuntu-docker-registry
 ubuntu/squid:latest registry.cn-hangzhou.aliyuncs.com/my-ubuntu-docker-registry/squid:latest
 library/haproxy:latest registry.cn-hangzhou.aliyuncs.com/my-ubuntu-docker-registry/haproxy:latest
 portainer/portainer-ce:latest registry.cn-hangzhou.aliyuncs.com/my-ubuntu-docker-registry/portainer-ce:latest
+whyour/qinglong:latest registry.cn-hangzhou.aliyuncs.com/my-ubuntu-docker-registry/qinglong:latest
