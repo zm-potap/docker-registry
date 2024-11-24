@@ -24,7 +24,6 @@ library/busybox:latest registry.cn-hangzhou.aliyuncs.com/my-ubuntu-docker-regist
 library/debian:latest registry.cn-hangzhou.aliyuncs.com/my-ubuntu-docker-registry/debian:latest
 leplusorg/kali:latest registry.cn-hangzhou.aliyuncs.com/my-ubuntu-docker-registry/kali:latest
 library/wordpress:latest registry.cn-hangzhou.aliyuncs.com/my-ubuntu-docker-registry/wordpress:latest
-library/ghost:latest registry.cn-hangzhou.aliyuncs.com/my-ubuntu-docker-registry/ghost:latest
 library/mariadb:latest registry.cn-hangzhou.aliyuncs.com/my-ubuntu-docker-registry/mariadb:latest
 library/caddy:latest registry.cn-hangzhou.aliyuncs.com/my-ubuntu-docker-registry/caddy:latest
 library/owncloud:latest registry.cn-hangzhou.aliyuncs.com/my-ubuntu-docker-registry/owncloud:latest
